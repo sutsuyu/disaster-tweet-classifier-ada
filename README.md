@@ -24,7 +24,7 @@ Fine-tune an ada (OpenAI) to identify tweets indicating disaster.
 ## Challenges
 ## Roadmap
 
-- Use of latest model (GPT-4)
+- Use of the latest model (GPT-4)
 
 
 ## Data Sources
