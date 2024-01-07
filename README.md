@@ -14,7 +14,8 @@ Fine-tune an ada (OpenAI) to identify tweets indicating disaster.
 
 ## Conclusions
 
-![Alt Text](relative_path_to_your_image_file.png)
+<img src="ada_score.png" alt="Alt Text" width="400" height="300"/>
+<img src="ada_score.png" alt="Alt Text" width="400" height="300"/>
 
 
 ## Tools
