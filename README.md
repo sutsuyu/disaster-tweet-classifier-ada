@@ -6,20 +6,29 @@ Fine-tune an ada (OpenAI) to identify tweets indicating disaster.
 
 ## Contents
 
-- Exploratory Data Analysis (EDA) 
+- Exploratory Data Analysis (EDA)
 - Data Manipulation
 - Fine-tuning 
 - Results and expected model performance
 
 
+## Conclusions
 
-## Conculusions
+![Alt Text](relative_path_to_your_image_file.png)
+
 
 ## Tools
 
  - [ydata-profiling](https://github.com/ydataai/ydata-profiling) for EDA
- - [OpenAI API](https://awesomeopensource.com/project/elangosundar/awesome-README-templates) for fine-tuning and prediction
+
+![](ydata.gif)
+
+ 
+ - [OpenAI API](https://platform.openai.com/docs/guides/fine-tuning) for fine-tuning and prediction
+
 ## Challenges
+
+
 ## Roadmap
 
 - Use of the latest model (GPT-4)
