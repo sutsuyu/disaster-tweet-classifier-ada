@@ -2,9 +2,7 @@
 
 Fine-tune an ada (OpenAI) to identify tweets indicating disaster.
 
-
-![Logo](https://www.kaggle.com/competitions/17777/images/header)
-
+<img src="https://www.kaggle.com/competitions/17777/images/header" alt="logo" style="margin-top:50px"></img>
 
 ## Contents
 
