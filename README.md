@@ -1,6 +1,6 @@
 # Tweets Classifier
 
-Fine-tune an ada (OpenAI) to classify tweets. In this MVP, aiming to identify tweets indicating disaster using the Kaggle dataset:
+Fine-tune an ada (OpenAI) to classify tweets. In this MVP (Minimum Viable Product), I aim to identify tweets indicating disaster:
 - disaster: "Forest fire near La Ronge Sask. Canada"
 - not-disaster: "on the outside you're ablaze and alive but you're dead inside"
 
