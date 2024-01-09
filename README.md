@@ -1,6 +1,6 @@
-# Disaster Tweets Classifier
+# Tweets Classifier
 
-Fine-tune an ada (OpenAI) to identify tweets indicating disaster:
+Fine-tune an ada (OpenAI) to classify tweets. In this MVP, aiming to identify tweets indicating disaster using the Kaggle dataset:
 - disaster: "Forest fire near La Ronge Sask. Canada"
 - not-disaster: "on the outside you're ablaze and alive but you're dead inside"
 
@@ -43,7 +43,8 @@ Fine-tune an ada (OpenAI) to identify tweets indicating disaster:
 
 ## Roadmap
 
-- Use of the latest model (GPT-4)
+- Use of the latest model (GPT-3.5, GPT-4)
+- Original models vs Fine-tuning performance comparison
 
 
 ## Data Sources
